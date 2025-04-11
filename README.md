@@ -60,7 +60,6 @@ java Main
    - Sugar added
 3. Easy to extend by adding new decorator classes like *CaramelAddon*, *ChocolateAddon*, etc.
 
----
 
 
 
